@@ -1,0 +1,13 @@
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.exe
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.deps.json
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.runtimeconfig.json
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.runtimeconfig.dev.json
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.dll
+C:\Users\wisfa\Desktop\C# Projects\firstProj\bin\Debug\netcoreapp3.1\firstProj.pdb
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.csprojAssemblyReference.cache
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.AssemblyInfoInputs.cache
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.AssemblyInfo.cs
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.csproj.CoreCompileInputs.cache
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.dll
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.pdb
+C:\Users\wisfa\Desktop\C# Projects\firstProj\obj\Debug\netcoreapp3.1\firstProj.genruntimeconfig.cache
